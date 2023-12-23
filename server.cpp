@@ -6,7 +6,7 @@
 
 int main()
 {
-  const int PORT = 3000;
+  const int PORT = 6969;
   int activeConnections = 0;
 
   // create the socket
